@@ -2,11 +2,11 @@
 
 ### The project is deployed on Netlify, and the repository is available on GitHub.
 
-- Netlify Link 👇
+- Netlify Link 👉
 [https://developerstringtictactoe.netlify.app/]
 
-- GitHub Repo Link 👇
-
+- GitHub Repo Link 👉
+[https://github.com/Deepak-GitHub1474/CodeCasa/tree/main/Tic_Tac%20_Toe]
 
 ### Project Features:
 
@@ -50,5 +50,5 @@ functional and straightforward, providing an enjoyable gaming experience.
 
 ### If you have any further suggestions or questions, please let me know.
 
-### My Linkedin Profile Link 👇
+### My Linkedin Profile Link 👉
 [https://www.linkedin.com/in/deepak-chaudhary1474/]
